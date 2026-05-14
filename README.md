@@ -1,6 +1,6 @@
 # Resume Website
 
-This is a minimal Vercel-ready static website that displays `resume.pdf` and provides a download button.
+This is a minimal Vercel-ready static website that opens `resume.pdf` directly in the browser PDF viewer.
 
 ## Update the Resume
 
